@@ -22,3 +22,5 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Folium
 - Akhil Dev Sudev
 - Madesh KK
 - Parima Verma
+ Full notebook (233 MB):
+ https://colab.research.google.com/drive/1bfJwkkON-3gnBynhZVFLS89XhtwC755B
